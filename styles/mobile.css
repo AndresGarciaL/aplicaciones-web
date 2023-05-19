@@ -1,0 +1,47 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+
+}
+
+body{
+    font-size: 62.5%;
+}
+
+.navigation{
+    list-style: none;
+    display:flex;
+    margin:0;
+    padding:0;
+    border: 0.1rem black solid ;
+    height: 2rem;
+    justify-content: end;
+    align-items: center;
+    width: 100%;
+}
+
+.navigation navigation--menu{
+    text-decoration: none;
+    font-size: 1rem;
+}
+.navigation--menu a{
+    text-decoration: none;
+    margin: 1rem;
+    font-size: 1.1rem;
+    color: #
+}
+
+.logo{
+    display: block;
+    height: 10rem;
+    width: 10rem;
+
+}
+
+main{
+    background-color: blueviolet;
+    height: 100px;
+}
+
+
